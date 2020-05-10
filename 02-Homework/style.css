@@ -1,0 +1,135 @@
+.container {
+    border: 10px;
+    border-color: rgb(61, 82, 82);
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    }
+
+.h1 {
+    font-size: 32px;
+    margin-right: 100px;
+        }
+
+.h2 {
+    font-size: 28px;
+    margin: 50px;
+}        
+
+p {
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    }
+
+.li {
+    padding: 15px;
+    color: white;
+}
+
+.navbar-brand {
+    display: block;
+}
+
+/*
+#navbarNav 
+
+#navbar-expand-lg
+{     
+    background-color: rgb(93, 185, 185);
+    font-weight: bold;
+    font-size: 24px; 
+    }
+*/
+
+.navbar-brand {
+    font-size: 32px;
+    font-weight: bolder;
+    }
+
+/*
+.navbar {
+    color: white;
+}
+
+.card {
+    border: 7px solid rgb(93, 185, 185);
+    display: flex;
+    flex-direction: row;
+}
+
+#me-pic {
+    width: 25px;
+    height: auto;
+    border: 5px solid rgb(61, 82, 82);
+}
+
+*/
+
+.images
+{  width: 150px;
+   height: auto;
+   border: 5px solid rgb(82, 82, 82);
+   margin-top: 20px;
+}
+
+h3 { font-size: 16px;
+     font-style: italic;
+     display: inline-block;
+     margin-top: 10px;
+} 
+
+/*
+.row { margin-left: 7px;
+       margin-right: 15px;
+         }
+
+*/
+
+#downtown
+#timbers {
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+        }
+
+#ginger
+#trillium {
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.words {
+    font-size: 18px;
+    font-style: italic; 
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    }
+
+ #contact-form {
+     padding: 15px;
+ }
+
+
+.gallery  {padding: 10px;      
+    }
+
+/*
+    .flex-container {
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        width: 75%;
+        padding: 10px;
+       }
+
+    .images {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    */
